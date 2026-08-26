@@ -13,7 +13,7 @@ public class whileEx1 {
         }
 
         System.out.println("Acesso Permitido");
-
+sc.close();
 
     }
 }
